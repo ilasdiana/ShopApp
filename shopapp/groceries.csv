@@ -1,0 +1,101 @@
+id|price|currency|name|description|expirationDate|isBio|countryOfOrigin|alergens
+1|22|ARS|Bread - Olive Dinner Roll|Pickle - Dill|11/06/2021|true|Argentina|Ericameria nauseosa (Pall. ex Pursh) G.L. Nesom & Baird ssp. nauseosa var. iridis (L.C. Anderson) G.L. Nesom & Baird
+2|31|EUR|Bread - Corn Muffaleta Onion|Cinnamon Rolls|04/28/2022|false|Spain|Selenia jonesii Cory var. jonesii
+3|100|IDR|Napkin - Cocktail,beige 2 - Ply|Buffalo - Tenderloin|02/17/2022|true|Indonesia|Croton coryi Croizat
+4|86|THB|Wine - White, Ej|Lotus Root|11/10/2021|true|Thailand|Rosa manca Greene
+5|38|IDR|Bread - Kimel Stick Poly|Bagel - Everything Presliced|03/24/2022|false|Indonesia|Thalictrum dasycarpum Fisch. & Avé-Lall.
+6|42|EUR|Barley - Pearl|Island Oasis - Strawberry|11/29/2021|false|Greece|Croton glandulosus L. var. lindheimeri Müll. Arg.
+7|54|CNY|Yogurt - Assorted Pack|Garam Masala Powder|10/01/2021|true|China|Millettia Wight & Arn.
+8|7|UAH|Curry Paste - Green Masala|Pasta - Gnocchi, Potato|04/07/2022|true|Ukraine|Myosurus apetalus C. Gay
+9|66|CNY|Snapple - Mango Maddness|Bread - Pumpernickle, Rounds|10/16/2021|false|China|Pittosporum napaliense Sherff
+10|66|THB|Pork - Side Ribs|Shrimp - 16 - 20 Cooked, Peeled|02/06/2022|true|Thailand|Sarea difformis (Fr.) Fr.
+11|42|DKK|Wine - Casillero Del Diablo|Oil - Margarine|01/22/2022|false|Denmark|Porpidia platycarpopides (Bagl.) Hertel
+12|61|LAK|Pastry - Mini French Pastries|Cloves - Whole|11/22/2021|true|Laos|Physaria acutifolia Rydb.
+13|14|EUR|Mix Pina Colada|Pie Filling - Pumpkin|12/25/2021|false|Germany|Buellia retrovertens Tuck.
+14|6|SEK|Lid - 16 Oz And 32 Oz|Latex Rubber Gloves Size 9|03/25/2022|true|Sweden|Peperomia glabella (Sw.) A. Dietr.
+15|89|CNY|Sultanas|Water, Tap|02/05/2022|false|China|Cirsium hydrophilum (Greene) Jeps. var. hydrophilum
+16|38|IDR|Juice Peach Nectar|Yeast - Fresh, Fleischman|02/15/2022|false|Indonesia|Ranunculus cymbalaria Pursh
+17|42|CNY|Muffin Mix - Blueberry|Pasta - Cappellini, Dry|12/03/2021|false|China|Splachnum sphaericum Hedw.
+18|26|CNY|Cheese - Pied De Vents|Longos - Chicken Wings|04/11/2022|true|China|Agastache pallidiflora (A. Heller) Rydb. ssp. pallidiflora var. greenei (Briq.) R.W. Sanders
+19|22|CNY|Fondant - Icing|Wine - Tribal Sauvignon|09/25/2021|false|China|Sidalcea multifida Greene
+20|4|NOK|Spic And Span All Purpose|Napkin - Beverge, White 2 - Ply|04/04/2022|false|Norway|Eryngium petiolatum Hook.
+21|9|EUR|Honey - Lavender|Green Scrubbie Pad H.duty|12/29/2021|true|Netherlands|Trifolium eriocephalum Nutt. ssp. martinii J.M. Gillett
+22|99|RUB|Sea Bass - Whole|Sparkling Wine - Rose, Freixenet|11/04/2021|true|Russia|Dennstaedtia globulifera (Poir.) Hieron.
+23|35|EUR|Wine - White, Gewurtzraminer|Beer - Sleeman Fine Porter|07/06/2022|true|Portugal|Lipochaeta bryanii Sherff
+24|37|ALL|Apricots Fresh|Dc - Frozen Momji|05/23/2022|true|Albania|Ribes erythrocarpum Coville & Leiberg
+25|68|CNY|Heavy Duty Dust Pan|Longos - Burritos|04/17/2022|true|China|Hastingsia bracteosa S. Watson var. bracteosa
+26|90|COP|Muffins - Assorted|Cloves - Ground|07/10/2022|true|Colombia|Cienfuegosia heterophylla (Vent.) Garcke
+27|84|ZAR|Pork - Back Ribs|Dried Apple|01/03/2022|false|South Africa|Scabiosa atropurpurea L.
+28|98|AMD|Cheese - Swiss Sliced|Mustard - Pommery|09/27/2021|false|Armenia|Ephebe solida Bornet
+29|63|RUB|Cheese - Parmesan Cubes|Parsley Italian - Fresh|01/28/2022|false|Russia|Micarea misella (Nyl.) Hedl.
+30|27|JPY|Eel Fresh|Mousse - Mango|01/23/2022|true|Japan|Cuscuta applanata Engelm.
+31|95|EUR|Wine - Puligny Montrachet A.|Chivas Regal - 12 Year Old|12/13/2021|true|Portugal|Hazardia squarrosa (Hook. & Arn.) Greene var. grindelioides (DC.) W.D. Clark
+32|6|EUR|Quail - Whole, Boneless|Red Cod Fillets - 225g|04/08/2022|true|Portugal|Phleum alpinum L.
+33|17|KZT|Wine - Peller Estates Late|Wine - Gewurztraminer Pierre|04/22/2022|false|Kazakhstan|Lopadium coralloideum (Nyl.) Lynge
+34|40|SEK|Parsnip|Gingerale - Diet - Schweppes|12/01/2021|false|Sweden|Montia fontana L.
+35|98|HRK|Beef - Short Loin|Wine - Kwv Chenin Blanc South|04/15/2022|false|Croatia|Solanum lumholtzianum Bartlett
+36|36|CNY|Lamb - Leg, Bone In|Lychee - Canned|03/02/2022|true|China|Chionanthus compactus Sw.
+37|13|BRL|Tray - 12in Rnd Blk|Milk - 2% 250 Ml|06/13/2022|false|Brazil|Monanthochloe littoralis Engelm.
+38|39|CNY|Chip - Potato Dill Pickle|Ecolab - Hand Soap Form Antibac|01/26/2022|false|China|Dalea leporina (Aiton) Bullock
+39|38|SEK|Clam - Cherrystone|Mortadella|05/15/2022|true|Sweden|Orthothecium diminutivum (Grout) H.A. Crum, Steere & L.E. Anderson
+40|79|EUR|Lid - Translucent, 3.5 And 6 Oz|Jerusalem Artichoke|06/10/2022|false|Finland|Baltimora recta L.
+41|37|PHP|Wine - Duboeuf Beaujolais|Squash - Guords|12/05/2021|false|Philippines|Dalea compacta Spreng. var. compacta
+42|94|CNY|Frangelico|Strawberries|01/20/2022|true|China|Pyrenula lucifera R.C. Harris
+43|63|ARS|Bag Stand|Garlic - Primerba, Paste|11/04/2021|true|Argentina|Caloplaca chrysophthalma Degel.
+44|61|IDR|Soup - Campbells, Classic Chix|Iced Tea Concentrate|10/19/2021|false|Indonesia|Allenrolfea Kuntze
+45|8|TND|Pan Grease|Chinese Lemon Pork|04/16/2022|true|Tunisia|Thymus praecox Opiz ssp. arcticus (Durand) Jalas
+46|39|CNY|Bread Crumbs - Japanese Style|Corn - Cream, Canned|10/26/2021|false|China|Diploschistes aeneus (Müll. Arg.) Lumbsch
+47|47|CNY|Tomatoes - Cherry, Yellow|Figs|07/15/2022|false|China|Aconitum columbianum Nutt. ssp. viviparum (Greene) D.E. Brink
+48|29|SEK|Pork - Belly Fresh|Cheese Cloth No 60|06/29/2022|false|Sweden|Galium angustifolium Nutt. ex A. Gray ssp. foliosum (Hilend & J.T. Howell) Dempster & Stebbins
+49|72|RUB|Juice Peach Nectar|Lamb - Whole, Frozen|11/11/2021|true|Russia|Pholisma arenarium Nutt. ex Hook.
+50|31|CNY|Carbonated Water - Raspberry|Arizona - Plum Green Tea|06/23/2022|true|China|Argyroxiphium virescens Hillebr.
+51|40|UAH|Veal - Loin|Carrots - Mini, Stem On|12/31/2021|false|Ukraine|Ochna serrulata (Hochst.) Walp.
+52|2|SEK|Gingerale - Schweppes, 355 Ml|Cake - Mini Potato Pancake|06/13/2022|false|Sweden|Cistanthe monosperma (Greene) Hershkovitz
+53|10|USD|Vodka - Moskovskaya|Wine - Muscadet Sur Lie|02/04/2022|false|United States|Gymnema R. Br.
+54|15|EUR|Longos - Assorted Sandwich|Melon - Honey Dew|07/31/2021|false|France|Pilularia L.
+55|96|GTQ|Bread - Raisin Walnut Pull|Savory|04/21/2022|false|Guatemala|Arabis microphylla Nutt. var. microphylla
+56|39|PEN|Muffin Mix - Morning Glory|Schnappes - Peach, Walkers|12/15/2021|true|Peru|Sibbaldia procumbens L.
+57|2|CNY|Curry Powder Madras|Basil - Dry, Rubbed|09/17/2021|false|China|Alsinidendron lychnoides (Hillebr.) Sherff
+58|21|PEN|Tea - Camomele|Lamb - Whole Head Off,nz|03/05/2022|true|Peru|Acmella pusilla (Hook. & Arn.) R.K. Jansen
+59|57|IDR|Wine - Jackson Triggs Okonagan|Table Cloth 54x54 Colour|01/28/2022|false|Indonesia|Theobroma cacao L.
+60|31|RUB|Bread - Kimel Stick Poly|Cake - Pancake|03/27/2022|false|Russia|Rhynchospora microcephala (Britton) Britton
+61|25|CNY|Corn - On The Cob|Juice - Apple, 341 Ml|05/26/2022|true|China|Lepidium montanum Nutt. var. tenellum (L.O. Williams) C.L. Hitchc.
+62|52|EUR|Bowl 12 Oz - Showcase 92012|Spaghetti Squash|09/20/2021|true|Slovenia|Gaura hexandra Ortega
+63|13|CDF|Wine - Shiraz Wolf Blass Premium|Coconut - Shredded, Unsweet|01/30/2022|false|Democratic Republic of the Congo|Uniola L.
+64|77|CNY|Wine - Chardonnay South|Chicken - Base, Ultimate|04/24/2022|true|China|Stenocybe (Nyl.) Körb.
+65|44|SEK|Juice - Ocean Spray Kiwi|Towel Multifold|01/27/2022|true|Sweden|Solanum dimidiatum Raf.
+66|99|UAH|Garlic|Wonton Wrappers|05/02/2022|false|Ukraine|Salpichroa Miers
+67|8|CNY|Sugar - Monocystal / Rock|Veal - Slab Bacon|11/10/2021|true|China|Rubus pubifolius L.H. Bailey
+68|95|COP|Cookies - Fortune|Bread - Italian Sesame Poly|07/29/2021|true|Colombia|Everniicola D. Hawksw.
+69|24|VND|Sachet|Placemat - Scallop, White|08/05/2021|true|Vietnam|Cyrtopodium polyphyllum (Vell.) Pabst ex Barrios
+70|89|PHP|Soup Campbells - Italian Wedding|Parsley Italian - Fresh|02/09/2022|false|Philippines|Phoenix reclinata Jacq.
+71|58|CNY|Tomato - Peeled Italian Canned|Beef - Top Sirloin - Aaa|07/02/2022|false|China|Alternanthera maritima (Mart.) A. St.-Hil.
+72|96|BRL|Soup Campbells|Basil - Dry, Rubbed|12/20/2021|false|Brazil|Asclepias viridula Chapm.
+73|20|ARS|Veal - Insides, Grains|Mikes Hard Lemonade|06/15/2022|false|Argentina|Pinguicula macroceras Link
+74|27|IDR|Beef - Top Sirloin|Chinese Foods - Pepper Beef|02/26/2022|false|Indonesia|Thermopsis montana Nutt.
+75|27|SSP|Beans - Black Bean, Canned|Cornflakes|07/18/2022|true|South Sudan|Asclepias labriformis M.E. Jones
+76|86|LTL|Chocolate Eclairs|Turnip - Mini|05/25/2022|false|Lithuania|Collinsonia serotina Walter
+77|70|CZK|Longos - Assorted Sandwich|Chocolate - Compound Coating|11/09/2021|true|Czech Republic|Alopecurus rendlei Eig
+78|22|IDR|Pork - Back, Long Cut, Boneless|Table Cloth 72x144 White|02/11/2022|false|Indonesia|Erlangea Sch. Bip.
+79|61|RUB|Wine - White, Gewurtzraminer|Lamb - Loin Chops|03/17/2022|false|Russia|Antheropeas lanosum (A. Gray) Rydb.
+80|95|CNY|Wine - Red, Marechal Foch|Hold Up Tool Storage Rack|07/02/2022|false|China|Bouteloua Lag.
+81|59|IDR|Truffle - Whole Black Peeled|Beef - Eye Of Round|08/24/2021|false|Indonesia|Stenandrium dulce (Cav.) Nees var. dulce
+82|3|IRR|Cookie Trail Mix|Bouq All Italian - Primerba|08/17/2021|false|Iran|Gardenia brighamii Gardenia brighamii
+83|66|PKR|Salt - Kosher|Filo Dough|03/12/2022|false|Pakistan|Anisacanthus quadrifidus (Vahl) Nees
+84|71|SEK|Chocolate - Unsweetened|Dried Cherries|03/15/2022|false|Sweden|Pohlia drummondii (Müll. Hal.) Andrews
+85|23|RUB|Squid Ink|Crackers - Melba Toast|03/25/2022|true|Russia|Anomodon viticulosus (Hedw.) Hook. & Taylor
+86|82|CNY|Beer - Upper Canada Lager|Puree - Blackcurrant|04/07/2022|true|China|Rhus virens Lindh. ex A. Gray var. choriophylla (Wooton & Standl.) L.D. Benson
+87|43|HRK|Wine - Merlot Vina Carmen|Sauce - Cranberry|03/12/2022|true|Croatia|Desmodium discolor Vogel
+88|36|CNY|Cheese - Valancey|Ecolab Digiclean Mild Fm|06/07/2022|true|China|Arnica longifolia D.C. Eaton
+89|90|CNY|Sprite - 355 Ml|Sesame Seed Black|02/24/2022|true|China|Pectocarya linearis (Ruiz & Pav.) DC. ssp. ferocula (I.M. Johnst.) Thorne
+90|49|IDR|Oil - Food, Lacquer Spray|Soup Campbells Split Pea And Ham|05/08/2022|true|Indonesia|Wikstroemia hanalei Wawra
+91|56|VND|Wine - Black Tower Qr|Split Peas - Green, Dry|01/19/2022|true|Vietnam|Astragalus praelongus Sheldon var. lonchopus Barneby
+92|82|CZK|Sugar - Individual Portions|Truffle Cups - Brown|05/27/2022|false|Czech Republic|Clintonia andrewsiana Torr.
+93|66|RUB|Wine - Spumante Bambino White|Tea - Black Currant|04/12/2022|true|Russia|Chrysothamnus greenei (A. Gray) Greene
+94|97|USD|Juice - Orange, Concentrate|Kale - Red|12/27/2021|true|United States|Centrosema (DC.) Benth.
+95|44|CNY|Carbonated Water - Peach|Pork - Tenderloin, Frozen|11/23/2021|true|China|Cryptantha pterocarya (Torr.) Greene
+96|44|UAH|Crab - Claws, Snow 16 - 24|Pepper - Roasted Red|08/03/2021|true|Ukraine|Ruellia metziae Tharp
+97|42|CNY|Coffee - Colombian, Portioned|Kiwi|07/15/2022|true|China|Hymenoxys bigelovii (A. Gray) K.F. Parker
+98|93|PLN|Lid Coffeecup 12oz D9542b|Nantucket - 518ml|12/04/2021|false|Poland|Chaenactis santolinoides Greene
+99|87|NGN|Mikes Hard Lemonade|Table Cloth 62x120 White|02/10/2022|false|Nigeria|Rubus alaskensis L.H. Bailey
+100|6|CNY|Crab - Dungeness, Whole, live|Celery|04/20/2022|false|China|Rumex ×confusus Simonkai
